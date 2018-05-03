@@ -1,0 +1,4 @@
+Board_Data.c boards/MajenkoTechnologies/libus-general
+Board_Defs.h boards/MajenkoTechnologies/libus-general
+board.txt boards/MajenkoTechnologies/libus-general
+chipKIT-application-32MX270F256-nobootloader.ld boards/MajenkoTechnologies/libus-general

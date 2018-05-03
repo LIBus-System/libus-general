@@ -1,0 +1,20 @@
+Source: libus-general
+Section: boards
+XBSC-Family: pic32
+Priority: extra
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: libus-general
+Section: boards
+Architecture: all
+XBSC-Group: Majenko Technologies
+XBSC-Subgroup: LIBus
+Depends: chipkit
+Recommends: liblibus-chipkit
+Description: LIBus General LED Driver
+ 16-channel LED driver slave for the LIBus system
+
+
+
